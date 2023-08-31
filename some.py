@@ -1,2 +1,1 @@
-print('Sravanthi')
-print('Nani')
+print('Sravanthi nagendra')
